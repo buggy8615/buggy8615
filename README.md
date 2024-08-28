@@ -1,16 +1,26 @@
-## Hi there 👋
+### Bienvenue sur mon profil GitHub ! 👋
 
-<!--
-**buggy8615/buggy8615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <a id="socials"></a>🌐 ▸ Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/uhq](https://discord.gg/BMSpYNtuEw)) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/biggy8615) 
 
-Here are some ideas to get you started:
+## 🛠️ ▸ Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Langages**: JavaScript, HTML, CSS, SQL
+- **Frameworks**: Node.js
+- **Outils**: Git, Docker, Visual Studio Code
+
+### 📊 ▸ Mes Stats Github:
+
+<p align="left">
+  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=buggy8615&countColorcountColor&countColor=%23006EFF" alt="Mes vues du profil"/>
+  <img height="25" src="https://img.shields.io/github/followers/buggy8615?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Abonnés"/>
+  <img height="25" src="https://img.shields.io/github/stars/buggy8615?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p> 
+
+![Autre Statistiques](https://github-readme-stats.vercel.app/api?username=buggy8615&show_icons=true&theme=radical)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=buggy8615&icon=2&color=12)](https://visitcount.itsvg.in)
